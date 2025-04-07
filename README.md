@@ -36,6 +36,12 @@ Analyze sales data to identify trends, top 5 best-selling products, and key reve
 - `Sales_Data_Analysis.ipynb` – Jupyter Notebook with full analysis and visuals  
 
 ---
+## 📈 Sample Output
+
+Here is a preview of one of the key charts from the analysis:
+
+![Sales Trend Chart](./sales_correlation_chart.png)
+
 
 ## 🚀 How to Use This Project
 
